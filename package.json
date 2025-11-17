@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/btully97/react-lava-backgrounds.git"
+    "url": "git+https://github.com/btully97/react-lava-background.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Benjamin Tully",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/btully97/react-lava-backgrounds/issues"
+    "url": "https://github.com/btully97/react-lava-background/issues"
   },
-  "homepage": "https://github.com/btully97/react-lava-backgrounds#readme",
+  "homepage": "https://github.com/btully97/react-lava-background#readme",
   "devDependencies": {
     "@ljharb/tsconfig": "^0.3.2",
     "@rollup/plugin-commonjs": "^28.0.9",

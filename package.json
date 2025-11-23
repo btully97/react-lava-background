@@ -16,14 +16,15 @@
   "keywords": [
     "react",
     "lava",
-    "background"
+    "background",
+    "front-end"
   ],
   "author": "Benjamin Tully",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/btully97/react-lava-background/issues"
   },
-  "homepage": "https://github.com/btully97/react-lava-background#readme",
+  "homepage": "https://react-lava-background.netlify.app/",
   "devDependencies": {
     "@ljharb/tsconfig": "^0.3.2",
     "@rollup/plugin-commonjs": "^28.0.9",

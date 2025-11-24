@@ -5,7 +5,7 @@ export interface LavaLampProps {
   minRadius?: number;
   maxRadius?: number;
   speed?: number;
-  blobColors?: [string, string, string];
+  blobColors?: [string, string, string]; // top, middle, bottom
   pixelSkip?: number; // optional pixel step for performance
 }
 

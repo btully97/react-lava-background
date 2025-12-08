@@ -1,6 +1,6 @@
 {
   "name": "react-lava-background",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "A lightweight React component for smooth, animated lava lamp–style backgrounds. Fully customizable colors, speed, and intensity. Perfect for landing pages, hero sections, and interactive UIs.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

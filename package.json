@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/btully97/react-lava-background/issues"
   },
-  "homepage": "https://react-lava-background.netlify.app/",
+  "homepage": "https://react-lava-background.vercel.app/",
   "devDependencies": {
     "@ljharb/tsconfig": "^0.3.2",
     "@rollup/plugin-commonjs": "^28.0.9",
